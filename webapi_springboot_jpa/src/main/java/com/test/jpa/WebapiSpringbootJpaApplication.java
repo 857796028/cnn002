@@ -9,3 +9,8 @@ public class WebapiSpringbootJpaApplication {
 		SpringApplication.run(WebapiSpringbootJpaApplication.class, args);
 	}
 }
+/**
+ * 访问路径为：localhost:8080/all
+ *
+ *
+ */

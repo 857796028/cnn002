@@ -19,5 +19,4 @@ public interface PersonRepository extends JpaRepository<Person,Long> {
 
     Person withNameAndAddressNamedQuery(String name, String address);
 
-
 }
