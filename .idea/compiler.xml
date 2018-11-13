@@ -18,6 +18,7 @@
         <module name="webapi_springbootbuinteriz" />
         <module name="webapi_springbootbymaven" />
         <module name="webapi_springbootinter001" />
+        <module name="webapi_springboottest002" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -39,6 +40,7 @@
       <module name="webapi_springbootfirst" target="1.8" />
       <module name="webapi_springbootinter001" target="1.8" />
       <module name="webapi_springbootquickly" target="1.8" />
+      <module name="webapi_springboottest002" target="1.8" />
       <module name="webapi_webTestLog4j2" target="1.8" />
     </bytecodeTargetLevel>
   </component>
