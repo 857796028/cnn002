@@ -2,8 +2,6 @@
 <project version="4">
   <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
     <file url="file://$PROJECT_DIR$/webapi" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/webapi/src/main/webapp/files/apk/鎺ュ彛鏂囨。20170622.txt" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/webapi/src/main/webapp/files/apk/閹恒儱褰涢弬鍥ㄣ€_0170622.txt" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/webapi_bos32_dao" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/webapi_bos32_domain" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/webapi_bos32_service" charset="UTF-8" />

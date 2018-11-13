@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/cnn002.iml" filepath="$PROJECT_DIR$/cnn002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webapi/webapi.iml" filepath="$PROJECT_DIR$/webapi/webapi.iml" />
       <module fileurl="file://$PROJECT_DIR$/webapi_bos32_dao/webapi_bos32_dao.iml" filepath="$PROJECT_DIR$/webapi_bos32_dao/webapi_bos32_dao.iml" />
       <module fileurl="file://$PROJECT_DIR$/webapi_bos32_domain/webapi_bos32_domain.iml" filepath="$PROJECT_DIR$/webapi_bos32_domain/webapi_bos32_domain.iml" />
       <module fileurl="file://$PROJECT_DIR$/webapi_bos32_parent/webapi_bos32_parent.iml" filepath="$PROJECT_DIR$/webapi_bos32_parent/webapi_bos32_parent.iml" />
