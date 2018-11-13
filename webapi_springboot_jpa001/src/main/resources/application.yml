@@ -1,3 +1,9 @@
 server:
   port: 8081
-  path: /hello
+
+Person:
+  lastName: zhangsan
+  age: 18
+  boss: false
+  birth: 2018/12/12
+  maps: {k1: v1,k2: v2}
