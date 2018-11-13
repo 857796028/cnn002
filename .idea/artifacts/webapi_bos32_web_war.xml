@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="webapi_bos32_web:war">
+    <output-path>$PROJECT_DIR$/webapi_bos32_web/target</output-path>
+    <root id="archive" name="webapi_bos32_web.war">
+      <element id="artifact" artifact-name="webapi_bos32_web:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="webapi" />
+        <module name="webapi_bos32_dao" />
+        <module name="webapi_bos32_domain" />
+        <module name="webapi_bos32_parent" />
+        <module name="webapi_bos32_service" />
+        <module name="webapi_bos32_utils" />
+        <module name="webapi_bos32_web" />
+        <module name="webapi_mavenwebtest" />
+        <module name="webapi_springboot_jpa" />
+        <module name="webapi_springbootbuinteriz" />
+        <module name="webapi_springbootbymaven" />
+        <module name="webapi_springbootinter001" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="weapi_springbootauto" target="1.8" />
+      <module name="weapi_springbootinter" target="1.8" />
+      <module name="webapi" target="1.8" />
+      <module name="webapi_bos32_dao" target="1.7" />
+      <module name="webapi_bos32_domain" target="1.7" />
+      <module name="webapi_bos32_parent" target="1.7" />
+      <module name="webapi_bos32_service" target="1.7" />
+      <module name="webapi_bos32_utils" target="1.7" />
+      <module name="webapi_bos32_web" target="1.7" />
+      <module name="webapi_mavenWeb02" target="1.8" />
+      <module name="webapi_mavenwebtest" target="1.8" />
+      <module name="webapi_mavnWeb" target="1.8" />
+      <module name="webapi_springboot_jpa" target="1.8" />
+      <module name="webapi_springbootbuinteriz" target="1.8" />
+      <module name="webapi_springbootbymaven" target="1.8" />
+      <module name="webapi_springbootfirst" target="1.8" />
+      <module name="webapi_springbootinter001" target="1.8" />
+      <module name="webapi_springbootquickly" target="1.8" />
+      <module name="webapi_webTestLog4j2" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

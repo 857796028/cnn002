@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cnn002.iml" filepath="$PROJECT_DIR$/cnn002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webapi_bos32_dao/webapi_bos32_dao.iml" filepath="$PROJECT_DIR$/webapi_bos32_dao/webapi_bos32_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webapi_bos32_domain/webapi_bos32_domain.iml" filepath="$PROJECT_DIR$/webapi_bos32_domain/webapi_bos32_domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webapi_bos32_parent/webapi_bos32_parent.iml" filepath="$PROJECT_DIR$/webapi_bos32_parent/webapi_bos32_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webapi_bos32_service/webapi_bos32_service.iml" filepath="$PROJECT_DIR$/webapi_bos32_service/webapi_bos32_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webapi_bos32_utils/webapi_bos32_utils.iml" filepath="$PROJECT_DIR$/webapi_bos32_utils/webapi_bos32_utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webapi_bos32_web/webapi_bos32_web.iml" filepath="$PROJECT_DIR$/webapi_bos32_web/webapi_bos32_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webapi_mavenwebtest/webapi_mavenwebtest.iml" filepath="$PROJECT_DIR$/webapi_mavenwebtest/webapi_mavenwebtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webapi_springboot_jpa/webapi_springboot_jpa.iml" filepath="$PROJECT_DIR$/webapi_springboot_jpa/webapi_springboot_jpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webapi_springbootbuinteriz/webapi_springbootbuinteriz.iml" filepath="$PROJECT_DIR$/webapi_springbootbuinteriz/webapi_springbootbuinteriz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webapi_springbootbymaven/webapi_springbootbymaven.iml" filepath="$PROJECT_DIR$/webapi_springbootbymaven/webapi_springbootbymaven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webapi_springbootinter001/webapi_springbootinter001.iml" filepath="$PROJECT_DIR$/webapi_springbootinter001/webapi_springbootinter001.iml" />
+    </modules>
+  </component>
+</project>

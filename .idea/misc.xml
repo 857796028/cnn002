@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/webapi" />
+    <file type="web" url="file://$PROJECT_DIR$/webapi_bos32_web" />
+    <file type="web" url="file://$PROJECT_DIR$/webapi_mavenWeb02" />
+    <file type="web" url="file://$PROJECT_DIR$/webapi_mavenwebtest" />
+    <file type="web" url="file://$PROJECT_DIR$/webapi_mavnWeb" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/webapi_springbootbuinteriz/pom.xml" />
+        <option value="$PROJECT_DIR$/webapi_springbootbymaven/pom.xml" />
+        <option value="$PROJECT_DIR$/webapi_mavenwebtest/pom.xml" />
+        <option value="$PROJECT_DIR$/webapi_bos32_parent/pom.xml" />
+        <option value="$PROJECT_DIR$/webapi_bos32_utils/pom.xml" />
+        <option value="$PROJECT_DIR$/webapi_bos32_dao/pom.xml" />
+        <option value="$PROJECT_DIR$/webapi_bos32_service/pom.xml" />
+        <option value="$PROJECT_DIR$/webapi_bos32_domain/pom.xml" />
+        <option value="$PROJECT_DIR$/webapi_bos32_web/pom.xml" />
+        <option value="$PROJECT_DIR$/webapi_springbootinter001/pom.xml" />
+        <option value="$PROJECT_DIR$/webapi_springboot_jpa/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SvnBranchConfigurationManager">
+    <option name="mySupportsUserInfoFilter" value="true" />
+  </component>
+</project>

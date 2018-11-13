@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="webapi_mavnWeb:war">
+    <output-path>$PROJECT_DIR$/webapi_mavnWeb/target</output-path>
+    <root id="archive" name="webapi_mavnWeb.war">
+      <element id="artifact" artifact-name="webapi_mavnWeb:war exploded" />
+    </root>
+  </artifact>
+</component>
