@@ -17,6 +17,8 @@
         <module name="webapi_springboot_jpa" />
         <module name="webapi_springboot_jpa001" />
         <module name="webapi_springboot_testlogging" />
+        <module name="webapi_springboot_testrestfulcrud" />
+        <module name="webapi_springboot_testweb" />
         <module name="webapi_springbootbuinteriz" />
         <module name="webapi_springbootbymaven" />
         <module name="webapi_springbootinter001" />
@@ -39,6 +41,8 @@
       <module name="webapi_springboot_jpa" target="1.8" />
       <module name="webapi_springboot_jpa001" target="1.8" />
       <module name="webapi_springboot_testlogging" target="1.8" />
+      <module name="webapi_springboot_testrestfulcrud" target="1.8" />
+      <module name="webapi_springboot_testweb" target="1.8" />
       <module name="webapi_springbootbuinteriz" target="1.8" />
       <module name="webapi_springbootbymaven" target="1.8" />
       <module name="webapi_springbootfirst" target="1.8" />

@@ -14,6 +14,8 @@
       <module fileurl="file://$PROJECT_DIR$/webapi_springboot_jpa/webapi_springboot_jpa.iml" filepath="$PROJECT_DIR$/webapi_springboot_jpa/webapi_springboot_jpa.iml" />
       <module fileurl="file://$PROJECT_DIR$/webapi_springboot_jpa001/webapi_springboot_jpa001.iml" filepath="$PROJECT_DIR$/webapi_springboot_jpa001/webapi_springboot_jpa001.iml" />
       <module fileurl="file://$PROJECT_DIR$/webapi_springboot_testlogging/webapi_springboot_testlogging.iml" filepath="$PROJECT_DIR$/webapi_springboot_testlogging/webapi_springboot_testlogging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webapi_springboot_testrestfulcrud/webapi_springboot_testrestfulcrud.iml" filepath="$PROJECT_DIR$/webapi_springboot_testrestfulcrud/webapi_springboot_testrestfulcrud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webapi_springboot_testweb/webapi_springboot_testweb.iml" filepath="$PROJECT_DIR$/webapi_springboot_testweb/webapi_springboot_testweb.iml" />
       <module fileurl="file://$PROJECT_DIR$/webapi_springbootbuinteriz/webapi_springbootbuinteriz.iml" filepath="$PROJECT_DIR$/webapi_springbootbuinteriz/webapi_springbootbuinteriz.iml" />
       <module fileurl="file://$PROJECT_DIR$/webapi_springbootbymaven/webapi_springbootbymaven.iml" filepath="$PROJECT_DIR$/webapi_springbootbymaven/webapi_springbootbymaven.iml" />
       <module fileurl="file://$PROJECT_DIR$/webapi_springbootinter001/webapi_springbootinter001.iml" filepath="$PROJECT_DIR$/webapi_springbootinter001/webapi_springbootinter001.iml" />

@@ -25,6 +25,8 @@
         <option value="$PROJECT_DIR$/webapi_springboottest002/pom.xml" />
         <option value="$PROJECT_DIR$/webapi_springboot_jpa001/pom.xml" />
         <option value="$PROJECT_DIR$/webapi_springboot_testlogging/pom.xml" />
+        <option value="$PROJECT_DIR$/webapi_springboot_testweb/pom.xml" />
+        <option value="$PROJECT_DIR$/webapi_springboot_testrestfulcrud/pom.xml" />
       </list>
     </option>
   </component>
