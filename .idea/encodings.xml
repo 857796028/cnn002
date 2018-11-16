@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/springboot-eva/spring-boot-learn-1" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/webapi" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/webapi_bos32_dao" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/webapi_bos32_domain" charset="UTF-8" />

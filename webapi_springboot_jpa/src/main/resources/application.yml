@@ -1,0 +1,6 @@
+jpa:
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: update    #如果有则更新 如果没有则创建
+    show-sql: true        #显示sql
